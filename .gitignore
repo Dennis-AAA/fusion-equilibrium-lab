@@ -1,0 +1,5 @@
+outputs/
+*.tar.gz
+*.zip
+.openai/
+upgrade-atlas.cjs
